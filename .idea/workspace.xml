@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0513204c-60f0-4539-b33a-865a04c48ebd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="_FSPHP_FILE" />
+        <option value="package.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="38352b37-f59b-4fba-8e15-a3c939d16f79" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1jsxGMP7StrLzaNIn2BKwQFJI4q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../innout2/src/controllers/login.php" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../innout2/src/models" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/views/template" />
+      <recent name="$PROJECT_DIR$/public/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/assets/css/fonts" />
+      <recent name="$PROJECT_DIR$/public/assets" />
+      <recent name="$PROJECT_DIR$/public/assets/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0513204c-60f0-4539-b33a-865a04c48ebd" name="Default Changelist" comment="" />
+      <created>1604606504097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604606504097</updated>
+      <workItem from="1604606505479" duration="347000" />
+      <workItem from="1604616017192" duration="2724000" />
+      <workItem from="1604640232196" duration="114000" />
+      <workItem from="1604641146086" duration="8275000" />
+      <workItem from="1604656275400" duration="341000" />
+      <workItem from="1604675349452" duration="8190000" />
+      <workItem from="1604728001647" duration="12258000" />
+      <workItem from="1604788690210" duration="2304000" />
+      <workItem from="1604876774093" duration="85000" />
+      <workItem from="1604876869558" duration="595000" />
+      <workItem from="1604900405873" duration="8215000" />
+      <workItem from="1604917341578" duration="330000" />
+      <workItem from="1604934349252" duration="3556000" />
+      <workItem from="1604944256056" duration="2213000" />
+      <workItem from="1604987016061" duration="10112000" />
+      <workItem from="1605073558991" duration="5856000" />
+      <workItem from="1605079713128" duration="2015000" />
+      <workItem from="1605082691582" duration="2164000" />
+      <workItem from="1605107263082" duration="3715000" />
+      <workItem from="1605128889731" duration="4125000" />
+      <workItem from="1605158780345" duration="10696000" />
+      <workItem from="1605207978856" duration="4426000" />
+      <workItem from="1605219903760" duration="2116000" />
+      <workItem from="1605247065211" duration="256000" />
+      <workItem from="1605249213810" duration="3027000" />
+      <workItem from="1605262791493" duration="3456000" />
+      <workItem from="1605285200432" duration="819000" />
+      <workItem from="1605290345365" duration="4434000" />
+      <workItem from="1605336177808" duration="4615000" />
+      <workItem from="1605369020580" duration="59000" />
+      <workItem from="1605435177000" duration="415000" />
+      <workItem from="1605545468294" duration="1299000" />
+      <workItem from="1605546960896" duration="1488000" />
+      <workItem from="1605567467470" duration="599000" />
+      <workItem from="1605593184558" duration="1047000" />
+      <workItem from="1605594500589" duration="1704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="25" width="666" height="877" key="#PHP" timestamp="1605595248200">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="23" width="666" height="877" key="#PHP/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604948142607" />
+    <state x="0" y="25" key="#PHP/1440.25.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1605595248200" />
+    <state x="377" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604680169162">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="377" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604680169162" />
+    <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1604617336312" />
+    <state x="2072" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604902639677">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2072" y="344" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1604902639677" />
+    <state x="553" y="335" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1604617682841" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1604764438644">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604764438644" />
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="DiffContextDialog" timestamp="1605594345245">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1605084589142" />
+    <state x="308" y="201" key="IDE.errors.dialog" timestamp="1605594578294">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="308" y="201" key="IDE.errors.dialog/1440.25.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1605594578294" />
+    <state x="480" y="219" key="NewPhpClassDialog" timestamp="1604995938467">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="480" y="219" key="NewPhpClassDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604995938467" />
+    <state x="560" y="253" key="NewPhpClassDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1604617939288" />
+    <state x="565" y="399" key="NewPhpFileDialog" timestamp="1605133280583">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="565" y="399" key="NewPhpFileDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1605133280583" />
+    <state x="659" y="463" key="NewPhpFileDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1604616391160" />
+    <state x="165" y="100" key="SettingsEditor" timestamp="1605594246221">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="165" y="100" key="SettingsEditor/1440.25.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1605594246221" />
+    <state x="341" y="175" key="SettingsEditor/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1604616381471" />
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1605547584983">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2/1440.25.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1605547584983" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1604764420210">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604764420210" />
+    <state x="484" y="244" key="zielu.gittoolbox.ui.GitPushTagsDialog" timestamp="1605547617602">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="484" y="244" key="zielu.gittoolbox.ui.GitPushTagsDialog/1440.25.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1605547617602" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/config/Database.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

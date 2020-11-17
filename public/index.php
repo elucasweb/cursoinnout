@@ -1,0 +1,1 @@
+<?phperror_reporting(E_ERROR | E_WARNING | E_PARSE);ini_set('display_errors', 1);require_once(__DIR__ . '/../src/config/config.php');$uri = urldecode(		parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));var_dump($uri);if ($uri === '/' || $uri === '' || $uri === '/index.php') {		$uri = '/day_records.php';}include(CONTROLLER_PATH . "{$uri}");
